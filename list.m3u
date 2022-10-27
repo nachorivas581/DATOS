@@ -1,110 +1,110 @@
 #EXTM3U
 #EXTINF:-1 ,TNT SPORTS
-http://vivo.iptvarg.cf/mnp/tntsports/output.mpd
+http://sub.iptvarg.cf/mnp/tntsports/output.mpd
 #EXTINF:-1 ,ESPN PREMIUM
-http://vivo.iptvarg.cf/mnp/espnpremium/output.mpd
+http://sub.iptvarg.cf/mnp/espnpremium/output.mpd
 #EXTINF:-1 ,Fox Sports
-http://vivo.iptvarg.cf/mnp/fox_sport/output.mpd
+http://sub.iptvarg.cf/mnp/fox_sport/output.mpd
 #EXTINF:-1 ,Fox Sports 2
-http://vivo.iptvarg.cf/mnp/fox_sport2/output.mpd
+http://sub.iptvarg.cf/mnp/fox_sport2/output.mpd
 #EXTINF:-1 ,Fox Sports 3
-http://vivo.iptvarg.cf/mnp/fox_sport3/output.mpd
+http://sub.iptvarg.cf/mnp/fox_sport3/output.mpd
 #EXTINF:-1 ,Espn
-http://vivo.iptvarg.cf/mnp/espn/output.mpd
+http://sub.iptvarg.cf/mnp/espn/output.mpd
 #EXTINF:-1 ,Espn2
-http://vivo.iptvarg.cf/mnp/espn2/output.mpd
+http://sub.iptvarg.cf/mnp/espn2/output.mpd
 #EXTINF:-1 ,Espn3
-http://vivo.iptvarg.cf/mnp/espn3/output.mpd
+http://sub.iptvarg.cf/mnp/espn3/output.mpd
 #EXTINF:-1 ,Espn extra
-http://vivo.iptvarg.cf/mnp/espn_extra/output.mpd
+http://sub.iptvarg.cf/mnp/espn_extra/output.mpd
 #EXTINF:-1 ,Directv Sports
-http://vivo.lamtv.tv:8081/a/0272/playlist.m3u8
+https://vivo.lamtv.tv:8081/a/0272/playlist.m3u8
 #EXTINF:-1 ,Directv Sports 2 
-http://vivo.lamtv.tv:8081/a/0273/playlist.m3u8
+https://vivo.lamtv.tv:8081/a/0273/playlist.m3u8
 #EXTINF:-1 ,Directv Sports Plus
-http://vivo.lamtv.tv:8081/a/0274/playlist.m3u8
+https://vivo.lamtv.tv:8081/a/0274/playlist.m3u8
 #EXTINF:-1 ,Animal Planet
-http://vivo.iptvarg.cf/anevia/live/localdisk/Animal_Planet/SA_DASH/Animal_Planet.mpd
+http://sub.iptvarg.cf/anevia/live/localdisk/Animal_Planet/SA_DASH/Animal_Planet.mpd
 #EXTINF:-1 ,AXN
-http://vivo.iptvarg.cf/mnp/axn/output.mpd
+http://sub.iptvarg.cf/mnp/axn/output.mpd
 #EXTINF:-1 ,Cinemax
-http://vivo.iptvarg.cf/mnp/cinemax/output.mpd
+http://sub.iptvarg.cf/mnp/cinemax/output.mpd
 #EXTINF:-1 ,Comedy Central
-http://vivo.iptvarg.cf/mnp/comedy/output.mpd
+http://sub.iptvarg.cf/mnp/comedy/output.mpd
 #EXTINF:-1 ,Discovery
-http://vivo.iptvarg.cf/mnp/discovery/output.mpd
+http://sub.iptvarg.cf/mnp/discovery/output.mpd
 #EXTINF:-1 ,Discovery H&H
-http://vivo.iptvarg.cf/mnp/disc_hh/output.mpd
+http://sub.iptvarg.cf/mnp/disc_hh/output.mpd
 #EXTINF:-1 ,Discovery ID
-http://vivo.iptvarg.cf/anevia/live/localdisk/Discovery_ID/SA_DASH/Discovery_ID.mpd
+http://sub.iptvarg.cf/anevia/live/localdisk/Discovery_ID/SA_DASH/Discovery_ID.mpd
 #EXTINF:-1 ,Discovery SCI
-http://vivo.iptvarg.cf/mnp/dsc_sci/output.mpd
+http://sub.iptvarg.cf/mnp/dsc_sci/output.mpd
 #EXTINF:-1 ,Discovery Theather
 http://vivo.lamtv.tv:8081/a/0044/playlist.m3u8
 #EXTINF:-1 ,Discovery Turbo
-http://vivo.iptvarg.cf/mnp/dsc_turbo/output.mpd
+http://sub.iptvarg.cf/mnp/dsc_turbo/output.mpd
 #EXTINF:-1 ,Discovery World
-http://vivo.iptvarg.cf/mnp/disc_world/output.mpd
+http://sub.iptvarg.cf/mnp/disc_world/output.mpd
 #EXTINF:-1 ,Space
-http://vivo.iptvarg.cf/mnp/space/output.mpd
+http://sub.iptvarg.cf/mnp/space/output.mpd
 #EXTINF:-1 ,Syfy
-http://vivo.iptvarg.cf/mnp/syfy/output.mpd
+http://sub.iptvarg.cf/mnp/syfy/output.mpd
 #EXTINF:-1 ,TLC
-http://vivo.iptvarg.cf/mnp/dsc_tlc/output.mpd
+http://sub.iptvarg.cf/mnp/dsc_tlc/output.mpd
 #EXTINF:-1 ,TCM
-http://vivo.iptvarg.cf/mnp/tcm/output.mpd
+http://sub.iptvarg.cf/mnp/tcm/output.mpd
 #EXTINF:-1 ,AMC
-http://vivo.iptvarg.cf/mnp/amc/output.mpd
+http://sub.iptvarg.cf/mnp/amc/output.mpd
 #EXTINF:-1 ,FX
-http://vivo.iptvarg.cf/mnp/fx/output.mpd
+http://sub.iptvarg.cf/mnp/fx/output.mpd
 #EXTINF:-1 ,HBO
-http://vivo.iptvarg.cf/mnp/hbo/output.mpd
+http://sub.iptvarg.cf/mnp/hbo/output.mpd
 #EXTINF:-1 ,HBO 2
-http://vivo.iptvarg.cf/mnp/hbo2/output.mpd
+http://sub.iptvarg.cf/mnp/hbo2/output.mpd
 #EXTINF:-1 ,HBO +
-http://vivo.iptvarg.cf/mnp/hboplus/output.mpd
+http://sub.iptvarg.cf/mnp/hboplus/output.mpd
 #EXTINF:-1 ,HBO Extreme
-http://vivo.iptvarg.cf/mnp/hboxtr/output.mpd
+http://sub.iptvarg.cf/mnp/hboxtr/output.mpd
 #EXTINF:-1 ,HBO Family
-http://vivo.iptvarg.cf/mnp/hbofam/output.mpd
+http://sub.iptvarg.cf/mnp/hbofam/output.mpd
 #EXTINF:-1 ,HBO Mundi
-http://vivo.iptvarg.cf/mnp/hbomund/output.mpd
+http://sub.iptvarg.cf/mnp/hbomund/output.mpd
 #EXTINF:-1 ,Cinemax
-http://vivo.iptvarg.cf/mnp/hbopop/output.mpd
+http://sub.iptvarg.cf/mnp/hbopop/output.mpd
 #EXTINF:-1 ,HBO Pop
-http://vivo.iptvarg.cf/mnp/hbosig/output.mpd
+http://sub.iptvarg.cf/mnp/hbosig/output.mpd
 #EXTINF:-1 ,TNT
-http://vivo.iptvarg.cf/mnp/tnt/output.mpd
+http://sub.iptvarg.cf/mnp/tnt/output.mpd
 #EXTINF:-1 ,TNT Series
-http://vivo.iptvarg.cf/mnp/tntseries/output.mpd
+http://sub.iptvarg.cf/mnp/tntseries/output.mpd
 #EXTINF:-1 ,Universal Channel
-http://vivo.iptvarg.cf/mnp/universal/output.mpd
+http://sub.iptvarg.cf/mnp/universal/output.mpd
 #EXTINF:-1 ,Warner
-http://vivo.iptvarg.cf/mnp/warner/output.mpd
+http://sub.iptvarg.cf/mnp/warner/output.mpd
 #EXTINF:-1 ,Cartoon Network
-http://vivo.iptvarg.cf/anevia/live/localdisk/Cartoon_Network/SA_DASH/Cartoon_Network.mpd
+http://sub.iptvarg.cf/anevia/live/localdisk/Cartoon_Network/SA_DASH/Cartoon_Network.mpd
 #EXTINF:-1 ,Cartoonito
-http://vivo.iptvarg.cf/mnp/boomerang/output.mpd
+http://sub.iptvarg.cf/mnp/boomerang/output.mpd
 #EXTINF:-1 ,Discovery Kids
-http://vivo.iptvarg.cf/mnp/disc_kids/output.mpdd
+http://sub.iptvarg.cf/mnp/disc_kids/output.mpdd
 #EXTINF:-1 ,Disney Channel
-http://vivo.iptvarg.cf/mnp/disney/output.mpd
+http://sub.iptvarg.cf/mnp/disney/output.mpd
 #EXTINF:-1 ,Disney JR
-http://vivo.iptvarg.cf/mnp/disneyjr/output.mpd
+http://sub.iptvarg.cf/mnp/disneyjr/output.mpd
 #EXTINF:-1 ,Nickelodeon
-http://vivo.iptvarg.cf/mnp/nickelodeon/output.mpd
+http://sub.iptvarg.cf/mnp/nickelodeon/output.mpd
 #EXTINF:-1 ,Tooncast
-http://vivo.iptvarg.cf/mnp/tooncast/output.mpd
+http://sub.iptvarg.cf/mnp/tooncast/output.mpd
 #EXTINF:-1 ,A24
-http://vivo.iptvarg.cf/mnp/a24/output.mpd
+http://sub.iptvarg.cf/mnp/a24/output.mpd
 #EXTINF:-1 ,C5N
-http://vivo.iptvarg.cf/mnp/c5n/output.mpd
+http://sub.iptvarg.cf/mnp/c5n/output.mpd
 #EXTINF:-1 ,Canal 9
-http://vivo.iptvarg.cf/mnp/elnueve/output.mpd
+http://sub.iptvarg.cf/mnp/elnueve/output.mpd
 #EXTINF:-1 ,Canal 13
-http://vivo.iptvarg.cf/mnp/el13/output.mpd
+http://sub.iptvarg.cf/mnp/el13/output.mpd
 #EXTINF:-1 ,Telefe
-http://vivo.iptvarg.cf/mnp/telefe/output.mpd
+http://sub.iptvarg.cf/mnp/telefe/output.mpd
 #EXTINF:-1 ,Tv Publica
-http://vivo.iptvarg.cf/mnp/tvp/output.mpd
+http://sub.iptvarg.cf/mnp/tvp/output.mpd
 
