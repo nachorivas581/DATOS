@@ -1,22 +1,22 @@
 #EXTM3U
-#EXTINF:-1 , TNT SPORTS
-https://vivo.iptvarg.cf/mnp/tntsports/output.mpd
+#EXTINF:-1 ,TNT SPORTS
+https://lab.cdn.rcs.net.ar/mnp/tntsports/output.mpd
 #EXTINF:-1 ,ESPN PREMIUM
-https://sub.iptvarg.cf/mnp/espnpremium/output.mpd
+https://lab.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 #EXTINF:-1 ,Fox Sports
-https://sub.iptvarg.cf/mnp/fox_sport/output.mpd
+https://lab.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
 #EXTINF:-1 ,Fox Sports 2
-https://sub.iptvarg.cf/mnp/fox_sport2/output.mpd
+https://lab.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
 #EXTINF:-1 ,Fox Sports 3
-https://sub.iptvarg.cf/mnp/fox_sport3/output.mpd
+https://lab.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
 #EXTINF:-1 ,Espn
-https://sub.iptvarg.cf/mnp/espn/output.mpd
+https://lab.cdn.rcs.net.ar/mnp/espn/output.mpd
 #EXTINF:-1 ,Espn2
-https://sub.iptvarg.cf/mnp/espn2/output.mpd
+https://lab.cdn.rcs.net.ar/mnp/espn2/output.mpd
 #EXTINF:-1 ,Espn3
-https://sub.iptvarg.cf/mnp/espn3/output.mpd
+https://lab.cdn.rcs.net.ar/mnp/espn3/output.mpd
 #EXTINF:-1 ,Espn extra
-https://sub.iptvarg.cf/mnp/espn_extra/output.mpd
+https://lab.cdn.rcs.net.ar/mnp/espn_extra/output.mpd
 #EXTINF:-1 ,Directv Sports
 https://vivo.lamtv.tv:8081/a/0272/playlist.m3u8
 #EXTINF:-1 ,Directv Sports 2 
@@ -24,86 +24,87 @@ https://vivo.lamtv.tv:8081/a/0273/playlist.m3u8
 #EXTINF:-1 ,Directv Sports Plus
 https://vivo.lamtv.tv:8081/a/0274/playlist.m3u8
 #EXTINF:-1 ,Animal Planet
-https://sub.iptvarg.cf/anevia/live/localdisk/Animal_Planet/SA_DASH/Animal_Planet.mpd
+https://lab.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_DASH/Animal_Planet.mpd
 #EXTINF:-1 ,AXN
-https://sub.iptvarg.cf/mnp/axn/output.mpd
+https://lab.cdn.rcs.net.ar/mnp/axn/output.mpd
 #EXTINF:-1 ,Cinemax
-https://sub.iptvarg.cf/mnp/cinemax/output.mpd
+https://lab.cdn.rcs.net.ar/mnp/cinemax/output.mpd
 #EXTINF:-1 ,Comedy Central
-https://sub.iptvarg.cf/mnp/comedy/output.mpd
+https://lab.cdn.rcs.net.ar/mnp/comedy/output.mpd
 #EXTINF:-1 ,Discovery
-https://sub.iptvarg.cf/mnp/discovery/output.mpd
+https://lab.cdn.rcs.net.ar/mnp/discovery/output.mpd
 #EXTINF:-1 ,Discovery H&H
-https://sub.iptvarg.cf/mnp/disc_hh/output.mpd
+https://lab.cdn.rcs.net.ar/mnp/disc_hh/output.mpd
 #EXTINF:-1 ,Discovery ID
-https://sub.iptvarg.cf/anevia/live/localdisk/Discovery_ID/SA_DASH/Discovery_ID.mpd
+https://lab.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_DASH/Discovery_ID.mpd
 #EXTINF:-1 ,Discovery SCI
-https://sub.iptvarg.cf/mnp/dsc_sci/output.mpd
+https://lab.cdn.rcs.net.ar/mnp/dsc_sci/output.mpd
 #EXTINF:-1 ,Discovery Theather
 https://vivo.lamtv.tv:8081/a/0044/playlist.m3u8
 #EXTINF:-1 ,Discovery Turbo
-https://sub.iptvarg.cf/mnp/dsc_turbo/output.mpd
+https://lab.cdn.rcs.net.ar/mnp/dsc_turbo/output.mpd
 #EXTINF:-1 ,Discovery World
-https://sub.iptvarg.cf/mnp/disc_world/output.mpd
+https://lab.cdn.rcs.net.ar/mnp/disc_world/output.mpd
 #EXTINF:-1 ,Space
-https://sub.iptvarg.cf/mnp/space/output.mpd
+https://lab.cdn.rcs.net.ar/mnp/space/output.mpd
 #EXTINF:-1 ,Syfy
-https://sub.iptvarg.cf/mnp/syfy/output.mpd
+https://lab.cdn.rcs.net.ar/mnp/syfy/output.mpd
 #EXTINF:-1 ,TLC
-https://sub.iptvarg.cf/mnp/dsc_tlc/output.mpd
+https://lab.cdn.rcs.net.ar/mnp/dsc_tlc/output.mpd
 #EXTINF:-1 ,TCM
-https://sub.iptvarg.cf/mnp/tcm/output.mpd
+https://lab.cdn.rcs.net.ar/mnp/tcm/output.mpd
 #EXTINF:-1 ,AMC
-https://sub.iptvarg.cf/mnp/amc/output.mpd
+https://lab.cdn.rcs.net.ar/mnp/amc/output.mpd
 #EXTINF:-1 ,FX
-https://sub.iptvarg.cf/mnp/fx/output.mpd
+https://lab.cdn.rcs.net.ar/mnp/fx/output.mpd
 #EXTINF:-1 ,HBO
-https://sub.iptvarg.cf/mnp/hbo/output.mpd
+https://lab.cdn.rcs.net.ar/mnp/hbo/output.mpd
 #EXTINF:-1 ,HBO 2
-https://sub.iptvarg.cf/mnp/hbo2/output.mpd
+https://lab.cdn.rcs.net.ar/mnp/hbo2/output.mpd
 #EXTINF:-1 ,HBO +
-https://sub.iptvarg.cf/mnp/hboplus/output.mpd
+https://lab.cdn.rcs.net.ar/mnp/hboplus/output.mpd
 #EXTINF:-1 ,HBO Extreme
-https://sub.iptvarg.cf/mnp/hboxtr/output.mpd
+https://lab.cdn.rcs.net.ar/mnp/hboxtr/output.mpd
 #EXTINF:-1 ,HBO Family
-https://sub.iptvarg.cf/mnp/hbofam/output.mpd
+https://lab.cdn.rcs.net.ar/mnp/hbofam/output.mpd
 #EXTINF:-1 ,HBO Mundi
-https://sub.iptvarg.cf/mnp/hbomund/output.mpd
+https://lab.cdn.rcs.net.ar/mnp/hbomund/output.mpd
 #EXTINF:-1 ,Cinemax
-https://sub.iptvarg.cf/mnp/hbopop/output.mpd
+https://lab.cdn.rcs.net.ar/mnp/hbopop/output.mpd
 #EXTINF:-1 ,HBO Pop
-https://sub.iptvarg.cf/mnp/hbosig/output.mpd
+https://lab.cdn.rcs.net.ar/mnp/hbosig/output.mpd
 #EXTINF:-1 ,TNT
-https://sub.iptvarg.cf/mnp/tnt/output.mpd
+https://lab.cdn.rcs.net.ar/mnp/tnt/output.mpd
 #EXTINF:-1 ,TNT Series
-https://sub.iptvarg.cf/mnp/tntseries/output.mpd
+https://lab.cdn.rcs.net.ar/mnp/tntseries/output.mpd
 #EXTINF:-1 ,Universal Channel
-https://sub.iptvarg.cf/mnp/universal/output.mpd
+https://lab.cdn.rcs.net.ar/mnp/universal/output.mpd
 #EXTINF:-1 ,Warner
-https://sub.iptvarg.cf/mnp/warner/output.mpd
+https://lab.cdn.rcs.net.ar/mnp/warner/output.mpd
 #EXTINF:-1 ,Cartoon Network
-https://sub.iptvarg.cf/anevia/live/localdisk/Cartoon_Network/SA_DASH/Cartoon_Network.mpd
+https://lab.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_DASH/Cartoon_Network.mpd
 #EXTINF:-1 ,Cartoonito
-https://sub.iptvarg.cf/mnp/boomerang/output.mpd
+https://lab.cdn.rcs.net.ar/mnp/boomerang/output.mpd
 #EXTINF:-1 ,Discovery Kids
-https://sub.iptvarg.cf/mnp/disc_kids/output.mpdd
+https://lab.cdn.rcs.net.ar/mnp/disc_kids/output.mpdd
 #EXTINF:-1 ,Disney Channel
-https://sub.iptvarg.cf/mnp/disney/output.mpd
+https://lab.cdn.rcs.net.ar/mnp/disney/output.mpd
 #EXTINF:-1 ,Disney JR
-https://sub.iptvarg.cf/mnp/disneyjr/output.mpd
+https://lab.cdn.rcs.net.ar/mnp/disneyjr/output.mpd
 #EXTINF:-1 ,Nickelodeon
-https://sub.iptvarg.cf/mnp/nickelodeon/output.mpd
+https://lab.cdn.rcs.net.ar/mnp/nickelodeon/output.mpd
 #EXTINF:-1 ,Tooncast
-https://sub.iptvarg.cf/mnp/tooncast/output.mpd
+https://lab.cdn.rcs.net.ar/mnp/tooncast/output.mpd
 #EXTINF:-1 ,A24
-https://sub.iptvarg.cf/mnp/a24/output.mpd
+https://lab.cdn.rcs.net.ar/mnp/a24/output.mpd
 #EXTINF:-1 ,C5N
-https://sub.iptvarg.cf/mnp/c5n/output.mpd
+https://lab.cdn.rcs.net.ar/mnp/c5n/output.mpd
 #EXTINF:-1 ,Canal 9
-https://sub.iptvarg.cf/mnp/elnueve/output.mpd
+https://lab.cdn.rcs.net.ar/mnp/elnueve/output.mpd
 #EXTINF:-1 ,Canal 13
-https://sub.iptvarg.cf/mnp/el13/output.mpd
+https://lab.cdn.rcs.net.ar/mnp/el13/output.mpd
 #EXTINF:-1 ,Telefe
-https://sub.iptvarg.cf/mnp/telefe/output.mpd
+https://lab.cdn.rcs.net.ar/mnp/telefe/output.mpd
 #EXTINF:-1 ,Tv Publica
-https://sub.iptvarg.cf/mnp/tvp/output.mpd
+https://lab.cdn.rcs.net.ar/mnp/tvp/output.mpd
+
