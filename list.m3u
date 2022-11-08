@@ -127,4 +127,6 @@ https://lab.cdn.rcs.net.ar/mnp/el13/output.mpd
 https://lab.cdn.rcs.net.ar/mnp/telefe/output.mpd
 #EXTINF:-1 ,Tv Publica
 https://lab.cdn.rcs.net.ar/mnp/tvp/output.mpd
+#EXTINF:-1 ,MTV
+https://lab.cdn.rcs.net.ar/mnp/mtv/output.mpd
 
