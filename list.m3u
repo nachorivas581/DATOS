@@ -17,12 +17,18 @@ https://lab.cdn.rcs.net.ar/mnp/espn2/output.mpd
 https://lab.cdn.rcs.net.ar/mnp/espn3/output.mpd
 #EXTINF:-1 ,Espn extra
 https://lab.cdn.rcs.net.ar/mnp/espn_extra/output.mpd
+#EXTINF:-1 ,TYC SPORTS
+https://lab.cdn.rcs.net.ar/mnp/tyc/output.mpd
 #EXTINF:-1 ,Directv Sports
 https://vivo.lamtv.tv:8081/a/0272/playlist.m3u8
 #EXTINF:-1 ,Directv Sports 2 
 https://vivo.lamtv.tv:8081/a/0273/playlist.m3u8
 #EXTINF:-1 ,Directv Sports Plus
 https://vivo.lamtv.tv:8081/a/0274/playlist.m3u8
+#EXTINF:-1 ,Directv Sports Fight
+https://vivo.lamtv.tv:8081/a/0338/playlist.m3u8
+#EXTINF:-1 ,BEIN SPORTS XTRA Ñ
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 #EXTINF:-1 ,Animal Planet
 https://lab.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_DASH/Animal_Planet.mpd
 #EXTINF:-1 ,AXN
@@ -45,6 +51,14 @@ https://vivo.lamtv.tv:8081/a/0044/playlist.m3u8
 https://lab.cdn.rcs.net.ar/mnp/dsc_turbo/output.mpd
 #EXTINF:-1 ,Discovery World
 https://lab.cdn.rcs.net.ar/mnp/disc_world/output.mpd
+#EXTINF:-1 ,History
+https://lab.cdn.rcs.net.ar/mnp/history/output.mpd
+#EXTINF:-1 ,History 2
+https://lab.cdn.rcs.net.ar/mnp/h2/output.mpd
+#EXTINF:-1 ,Gourmet
+https://lab.cdn.rcs.net.ar/mnp/gourmet/output.mpd
+#EXTINF:-1 ,E!
+https://vivo.lamtv.tv:8081/a/0050/playlist.m3u8
 #EXTINF:-1 ,Space
 https://lab.cdn.rcs.net.ar/mnp/space/output.mpd
 #EXTINF:-1 ,Syfy
@@ -57,6 +71,12 @@ https://lab.cdn.rcs.net.ar/mnp/tcm/output.mpd
 https://lab.cdn.rcs.net.ar/mnp/amc/output.mpd
 #EXTINF:-1 ,FX
 https://lab.cdn.rcs.net.ar/mnp/fx/output.mpd
+#EXTINF:-1 ,SONY
+https://lab.cdn.rcs.net.ar/mnp/sony/output.mpd
+#EXTINF:-1 ,SONY NOVELAS
+https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,SONY COMEDIA
+https://spt-comedias-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,HBO
 https://lab.cdn.rcs.net.ar/mnp/hbo/output.mpd
 #EXTINF:-1 ,HBO 2
@@ -86,7 +106,7 @@ https://lab.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_DASH/Cartoon
 #EXTINF:-1 ,Cartoonito
 https://lab.cdn.rcs.net.ar/mnp/boomerang/output.mpd
 #EXTINF:-1 ,Discovery Kids
-https://lab.cdn.rcs.net.ar/mnp/disc_kids/output.mpdd
+https://lab.cdn.rcs.net.ar/mnp/disc_kids/output.mpd
 #EXTINF:-1 ,Disney Channel
 https://lab.cdn.rcs.net.ar/mnp/disney/output.mpd
 #EXTINF:-1 ,Disney JR
