@@ -7,8 +7,8 @@ https://is-frontera.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 https://is-frontera.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
 #EXTINF:-1 ,Fox Sports 2
 https://is-frontera.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
-#EXTINF:-1 ,Fox Sports 3
-https://is-frontera.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
+#EXTINF:-1 ,TYC
+https://lab.cdn.rcs.net.ar/mnp/tyc/output.mpd
 #EXTINF:-1 ,Espn
 https://is-frontera.cdn.rcs.net.ar/mnp/espn/output.mpd
 #EXTINF:-1 ,Espn2
