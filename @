@@ -10,7 +10,7 @@ https://is-tucuman.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
 #EXTINF:-1 ,Fox Sports 3
 https://is-tucuman.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
 #EXTINF:-1 ,TYC SPORT
-https://is-tucuman.cdn.rcs.net.ar/mnp/tyc/output.mpd
+http://131.196.194.2:8000/play/a0hf/index.m3u8
 #EXTINF:-1 ,Espn
 https://is-tucuman.cdn.rcs.net.ar/mnp/espn/output.mpd
 #EXTINF:-1 ,Espn2
