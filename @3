@@ -1,0 +1,468 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="758327.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/INFOCLAROHD/EXPORTACION_WEB/SS/INFOCLAROHD_t-290x163.png",Info Claro HD
+http://toleflix.tk/clarotv2/get.php?id=758327&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="888422.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/CANALIBEROAMERICANO/EXPORTACION_WEB/SS/CANALIBEROAMERICANO_t-290x163.png",Canal Iberoamericano
+http://toleflix.tk/clarotv2/get.php?id=888422&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="758304.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/ET24/EXPORTACION_WEB/SS/ET24_t-290x163.png",Et24
+http://toleflix.tk/clarotv2/get.php?id=758304&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="888805.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CITYTV/EXPORTACION_WEB/SS/CITYTV_t-290x163.png",City Tv
+http://toleflix.tk/clarotv2/get.php?id=888805&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="758425.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/CANALDELCONGRESO/EXPORTACION_WEB/SS/CANALDELCONGRESO_t-290x163.png",Canal Del Congreso
+http://toleflix.tk/clarotv2/get.php?id=758425&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="758429.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/COSMOVISIN/EXPORTACION_WEB/SS/COSMOVISIN_t-290x163.png",CosmovisiÓn
+http://toleflix.tk/clarotv2/get.php?id=758429&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="758413.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/ZOOM/EXPORTACION_WEB/SS/ZOOM_t-290x163.png",Zoom
+http://toleflix.tk/clarotv2/get.php?id=758413&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="888817.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/MEGUSTA/EXPORTACION_WEB/SS/MEGUSTA_t-290x163.png",Me Gusta
+http://toleflix.tk/clarotv2/get.php?id=888817&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="888839.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/SINLIMITE/EXPORTACION_WEB/SS/SINLIMITE_t-290x163.png",Sin Limite
+http://toleflix.tk/clarotv2/get.php?id=888839&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="927628.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/HTV/EXPORTACION_WEB/SS/HTV_t-290x163.png",Htv
+http://toleflix.tk/clarotv2/get.php?id=927628&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="888787.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/CLAROMSICATV/EXPORTACION_WEB/SS/CLAROMSICATV_t-290x163.png",Claro MÚsica Tv
+http://toleflix.tk/clarotv2/get.php?id=888787&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="778862.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/MTVHITS/EXPORTACION_WEB/SS/MTVHITS_t-290x163.png",Mtv Hits
+http://toleflix.tk/clarotv2/get.php?id=778862&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="908274.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/MIGENTETV/EXPORTACION_WEB/SS/MIGENTETV_t-290x163.png",Mi Gente Tv
+http://toleflix.tk/clarotv2/get.php?id=908274&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="778842.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/MTV80/EXPORTACION_WEB/SS/MTV80_t-290x163.png",Mtv 80
+http://toleflix.tk/clarotv2/get.php?id=778842&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="778863.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/TELEHIT/EXPORTACION_WEB/SS/TELEHIT_t-290x163.png",Telehit
+http://toleflix.tk/clarotv2/get.php?id=778863&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="927635.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/BABYTV/EXPORTACION_WEB/SS/BABYTV_t-290x163.png",Baby Tv
+http://toleflix.tk/clarotv2/get.php?id=927635&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="773759.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn1.clarovideo.net/PELICULAS/TOONCAST/EXPORTACION_WEB/SS/TOONCAST_t-290x163.png",Tooncast
+http://toleflix.tk/clarotv2/get.php?id=773759&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="780903.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/NICKMUSIC/EXPORTACION_WEB/SS/NICKMUSIC_t-290x163.png",Nickmusic
+http://toleflix.tk/clarotv2/get.php?id=780903&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="903355.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn7.clarovideo.net/ATRESPLAYER/PELICULAS/ATRESERIES/EXPORTACION_WEB/SS/ATRESERIES_t-290x163.png",Atreseries
+http://toleflix.tk/clarotv2/get.php?id=903355&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="903356.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn9.clarovideo.net/ATRESPLAYER/PELICULAS/HOLATV/EXPORTACION_WEB/SS/HOLATV_t-290x163.png",Hola Tv
+http://toleflix.tk/clarotv2/get.php?id=903356&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="908285.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn5.clarovideo.net/ATRESPLAYER/PELICULAS/ATRESCINE/EXPORTACION_WEB/SS/ATRESCINE_t-290x163.png",Atrescine
+http://toleflix.tk/clarotv2/get.php?id=908285&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="790580.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/DISCOVERYSCIENCE/EXPORTACION_WEB/SS/DISCOVERYSCIENCE_t-290x163.png",Discovery Science
+http://toleflix.tk/clarotv2/get.php?id=790580&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="927561.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/TLCHD/EXPORTACION_WEB/SS/TLCHD_t-290x163.png",Tlc HD
+http://toleflix.tk/clarotv2/get.php?id=927561&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="927629.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/GLITZ/EXPORTACION_WEB/SS/GLITZ_t-290x163.png",Glitz
+http://toleflix.tk/clarotv2/get.php?id=927629&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="758619.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/TLNOVELAS/EXPORTACION_WEB/SS/TLNOVELAS_t-290x163.png",Tlnovelas
+http://toleflix.tk/clarotv2/get.php?id=758619&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="773785.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/FOXNEWS/EXPORTACION_WEB/SS/FOXNEWS_t-290x163.png",Fox News
+http://toleflix.tk/clarotv2/get.php?id=773785&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="773802.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/HEADLINENEWS/EXPORTACION_WEB/SS/HEADLINENEWS_t-290x163.png",Headline News
+http://toleflix.tk/clarotv2/get.php?id=773802&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="773820.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CNNINTERNACIONAL/EXPORTACION_WEB/SS/CNNINTERNACIONAL_t-290x163.png",Cnn Internacional
+http://toleflix.tk/clarotv2/get.php?id=773820&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="927560.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/CNNENESPAOL/EXPORTACION_WEB/SS/CNNENESPAOL_t-290x163.png",Cnn En EspaÑol
+http://toleflix.tk/clarotv2/get.php?id=927560&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="778866.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/DATAIFX/EXPORTACION_WEB/SS/DATAIFX_t-290x163.png",Data Ifx
+http://toleflix.tk/clarotv2/get.php?id=778866&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="898511.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/NTN24/EXPORTACION_WEB/SS/NTN24_t-290x163.png",Ntn 24
+http://toleflix.tk/clarotv2/get.php?id=898511&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="778848.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/TVE/EXPORTACION_WEB/SS/TVE_t-290x163.png",Tve
+http://toleflix.tk/clarotv2/get.php?id=778848&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="778868.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/TV5MONDE/EXPORTACION_WEB/SS/TV5MONDE_t-290x163.png",Tv5 Monde
+http://toleflix.tk/clarotv2/get.php?id=778868&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="778878.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/DWTV/EXPORTACION_WEB/SS/DWTV_t-290x163.png",Dw Tv
+http://toleflix.tk/clarotv2/get.php?id=778878&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="778815.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/DWAMERIKA/EXPORTACION_WEB/SS/DWAMERIKA_t-290x163.png",Dw Amerika
+http://toleflix.tk/clarotv2/get.php?id=778815&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="778837.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/ARIRANG/EXPORTACION_WEB/SS/ARIRANG_t-290x163.png",Arirang
+http://toleflix.tk/clarotv2/get.php?id=778837&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="739484.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/ALJAZEERA/EXPORTACION_WEB/SS/ALJAZEERA_t-290x163.png",Aljazeera
+http://toleflix.tk/clarotv2/get.php?id=739484&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="778847.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/24HTVE/EXPORTACION_WEB/SS/24HTVE_t-290x163.png",24 Htve
+http://toleflix.tk/clarotv2/get.php?id=778847&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="773959.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/ISAT/EXPORTACION_WEB/SS/ISAT_t-290x163.png",Isat
+http://toleflix.tk/clarotv2/get.php?id=773959&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="758475.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/MULTIPREMIER/EXPORTACION_WEB/SS/MULTIPREMIER_t-290x163.png",Multipremier
+http://toleflix.tk/clarotv2/get.php?id=758475&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="794384.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/CINELATINO/EXPORTACION_WEB/SS/CINELATINO_t-290x163.png",Cine Latino
+http://toleflix.tk/clarotv2/get.php?id=794384&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="778851.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/CINEMA/EXPORTACION_WEB/SS/CINEMA_t-290x163.png",Cinema +
+http://toleflix.tk/clarotv2/get.php?id=778851&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="927657.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/TCMCOLOMBIA/EXPORTACION_WEB/SS/TCMCOLOMBIA_t-290x163.png",Tcm Colombia
+http://toleflix.tk/clarotv2/get.php?id=927657&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="783906.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/CLAROCINEMA/EXPORTACION_WEB/SS/CLAROCINEMA_t-290x163.png",Claro Cinema
+http://toleflix.tk/clarotv2/get.php?id=783906&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="820442.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn5.clarovideo.net/HBO/PELICULAS/HBOMUNDI/EXPORTACION_WEB/SS/HBOMUNDI_t-290x163.png",Hbo Mundi
+http://toleflix.tk/clarotv2/get.php?id=820442&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="758560.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/EWTN/EXPORTACION_WEB/SS/EWTN_t-290x163.png",Ewtn
+http://toleflix.tk/clarotv2/get.php?id=758560&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="758283.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/ELSEMBRADOR/EXPORTACION_WEB/SS/ELSEMBRADOR_t-290x163.png",El Sembrador
+http://toleflix.tk/clarotv2/get.php?id=758283&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="758252.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CRISTOVISIN/EXPORTACION_WEB/SS/CRISTOVISIN_t-290x163.png",CristovisiÓn
+http://toleflix.tk/clarotv2/get.php?id=758252&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="758284.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/TELEAMIGA/EXPORTACION_WEB/SS/TELEAMIGA_t-290x163.png",Teleamiga
+http://toleflix.tk/clarotv2/get.php?id=758284&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="758263.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/ENLACE/EXPORTACION_WEB/SS/ENLACE_t-290x163.png",Enlace
+http://toleflix.tk/clarotv2/get.php?id=758263&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="908201.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/TVFAMILIA/EXPORTACION_WEB/SS/TVFAMILIA_t-290x163.png",Tv Familia
+http://toleflix.tk/clarotv2/get.php?id=908201&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="888842.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn1.clarovideo.net/PELICULAS/REDMSCOLOMBIA/EXPORTACION_WEB/SS/REDMSCOLOMBIA_t-290x163.png",Red MÁs Colombia
+http://toleflix.tk/clarotv2/get.php?id=888842&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="888841.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn5.clarovideo.net/PELICULAS/CANALRCNHD/EXPORTACION_WEB/SS/CANALRCNHD_t-290x163.png",Canal Rcn HD
+http://toleflix.tk/clarotv2/get.php?id=888841&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="935964.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn5.clarovideo.net/PELICULAS/CANALRCNHD/EXPORTACION_WEB/SS/CANALRCNHD_t-290x163.png",Canal Rcn HD
+http://toleflix.tk/clarotv2/get.php?id=935964&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="717025.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/CANALCLARO/EXPORTACION_WEB/SS/CANALCLARO_t-290x163.png",Canal Claro
+http://toleflix.tk/clarotv2/get.php?id=717025&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="888821.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CANAL1COLOMBIAHD/EXPORTACION_WEB/SS/CANAL1COLOMBIAHD_t-290x163.png",Canal 1 Colombia HD
+http://toleflix.tk/clarotv2/get.php?id=888821&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="888840.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn5.clarovideo.net/PELICULAS/CANALINSTITUCIONALHD/EXPORTACION_WEB/SS/CANALINSTITUCIONALHD_t-290x163.png",Canal Institucional HD
+http://toleflix.tk/clarotv2/get.php?id=888840&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="888802.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn5.clarovideo.net/PELICULAS/CANALCAPITALCOLOMBIA/EXPORTACION_WEB/SS/CANALCAPITALCOLOMBIA_t-290x163.png",Canal Capital Colombia
+http://toleflix.tk/clarotv2/get.php?id=888802&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="888786.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/TELEANTIOQUIANEW/EXPORTACION_WEB/SS/TELEANTIOQUIANEW_t-290x163.png",Teleantioquia New
+http://toleflix.tk/clarotv2/get.php?id=888786&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="888837.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn5.clarovideo.net/PELICULAS/TELECARIBEHDCOLOMBIA/EXPORTACION_WEB/SS/TELECARIBEHDCOLOMBIA_t-290x163.png",Telecaribe HD Colombia
+http://toleflix.tk/clarotv2/get.php?id=888837&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="888803.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn5.clarovideo.net/PELICULAS/TELEPACIFICOCOLOMBIA/EXPORTACION_WEB/SS/TELEPACIFICOCOLOMBIA_t-290x163.png",Telepacifico Colombia
+http://toleflix.tk/clarotv2/get.php?id=888803&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="888838.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/CANAL13/EXPORTACION_WEB/SS/CANAL13_t-290x163.png",Canal 13
+http://toleflix.tk/clarotv2/get.php?id=888838&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="888804.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/TROCOLOMBIA/EXPORTACION_WEB/SS/TROCOLOMBIA_t-290x163.png",Tro Colombia
+http://toleflix.tk/clarotv2/get.php?id=888804&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="888851.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn1.clarovideo.net/PELICULAS/TELECAFE/EXPORTACION_WEB/SS/TELECAFE_t-290x163.png",Telecafe
+http://toleflix.tk/clarotv2/get.php?id=888851&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="783449.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/TELEISLAS/EXPORTACION_WEB/SS/TELEISLAS_t-290x163.png",Teleislas
+http://toleflix.tk/clarotv2/get.php?id=783449&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="888788.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/SEALCOLOMBIAHD/EXPORTACION_WEB/SS/SEALCOLOMBIAHD_t-290x163.png",SeÑal Colombia HD
+http://toleflix.tk/clarotv2/get.php?id=888788&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="739478.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/MTV/EXPORTACION_WEB/SS/MTV_t-290x163.png",Mtv
+http://toleflix.tk/clarotv2/get.php?id=739478&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="778919.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/MTV00S/EXPORTACION_WEB/SS/MTV00S_t-290x163.png",Mtv 00's
+http://toleflix.tk/clarotv2/get.php?id=778919&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="778874.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/MTVLIVEHD/EXPORTACION_WEB/SS/MTVLIVEHD_t-290x163.png",Mtv Live  hd
+http://toleflix.tk/clarotv2/get.php?id=778874&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="783912.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/CONCERTCHANNEL/EXPORTACION_WEB/SS/CONCERTCHANNEL_t-290x163.png",Concert Channel
+http://toleflix.tk/clarotv2/get.php?id=783912&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="790566.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/DISCOVERYKIDSCHANNEL/EXPORTACION_WEB/SS/DISCOVERYKIDSCHANNEL_t-290x163.png",Discovery Kids Channel
+http://toleflix.tk/clarotv2/get.php?id=790566&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="773649.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/CARTOONNETWORK/EXPORTACION_WEB/SS/CARTOONNETWORK_t-290x163.png",Cartoon Network
+http://toleflix.tk/clarotv2/get.php?id=773649&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="758402.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/DISNEYHD/EXPORTACION_WEB/SS/DISNEYHD_t-290x163.png",Disney HD
+http://toleflix.tk/clarotv2/get.php?id=758402&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="758583.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/DISNEYJUNIOR/EXPORTACION_WEB/SS/DISNEYJUNIOR_t-290x163.png",Disney Junior
+http://toleflix.tk/clarotv2/get.php?id=758583&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="739479.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/NICKELODEON/EXPORTACION_WEB/SS/NICKELODEON_t-290x163.png",Nickelodeon
+http://toleflix.tk/clarotv2/get.php?id=739479&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="728276.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/NICKJR/EXPORTACION_WEB/SS/NICKJR_t-290x163.png",Nick Jr
+http://toleflix.tk/clarotv2/get.php?id=728276&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="773692.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn5.clarovideo.net/PELICULAS/CARTOONITO/EXPORTACION_WEB/SS/CARTOONITO_t-290x163.png",Cartoonito
+http://toleflix.tk/clarotv2/get.php?id=773692&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="1068907.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/CLANHD/EXPORTACION_WEB/SS/CLANHD_t-290x163.png",Clan HD
+http://toleflix.tk/clarotv2/get.php?id=1068907&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="1028757.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/BABYFIRST/EXPORTACION_WEB/SS/BABYFIRST_t-290x163.png",Babyfirst
+http://toleflix.tk/clarotv2/get.php?id=1028757&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="790564.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/DISCOVERYCHANNELHD/EXPORTACION_WEB/SS/DISCOVERYCHANNELHD_t-290x163.png",Discovery Channel HD
+http://toleflix.tk/clarotv2/get.php?id=790564&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="739490.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/DISCOVERYWORLDHD/EXPORTACION_WEB/SS/DISCOVERYWORLDHD_t-290x163.png",Discovery World HD
+http://toleflix.tk/clarotv2/get.php?id=739490&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="739491.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/DISCOVERYTHEATER/EXPORTACION_WEB/SS/DISCOVERYTHEATER_t-290x163.png",Discovery Theater
+http://toleflix.tk/clarotv2/get.php?id=739491&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="927642.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/ANIMALPLANETHD/EXPORTACION_WEB/SS/ANIMALPLANETHD_t-290x163.png",Animal Planet HD
+http://toleflix.tk/clarotv2/get.php?id=927642&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="927653.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/HISTORYCHANNELHD/EXPORTACION_WEB/SS/HISTORYCHANNELHD_t-290x163.png",History Channel HD
+http://toleflix.tk/clarotv2/get.php?id=927653&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="927625.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/HISTORY2/EXPORTACION_WEB/SS/HISTORY2_t-290x163.png",History 2
+http://toleflix.tk/clarotv2/get.php?id=927625&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="790838.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/DISCOVERYTURBOHD/EXPORTACION_WEB/SS/DISCOVERYTURBOHD_t-290x163.png",Discovery Turbo HD
+http://toleflix.tk/clarotv2/get.php?id=790838&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="728274.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/NATIONALGEOGRAPHIC/EXPORTACION_WEB/SS/NATIONALGEOGRAPHIC_t-290x163.png",National Geographic
+http://toleflix.tk/clarotv2/get.php?id=728274&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="772019.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/TVAGROHD/EXPORTACION_WEB/SS/TVAGROHD_t-290x163.png",Tv Agro HD
+http://toleflix.tk/clarotv2/get.php?id=772019&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="793559.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/HGTV/EXPORTACION_WEB/SS/HGTV_t-290x163.png",Hgtv
+http://toleflix.tk/clarotv2/get.php?id=793559&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="790578.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/DISCOVERYHOMEANDHEALTHCHANNEL/EXPORTACION_WEB/SS/DISCOVERYHOMEANDHEALTHCHANNEL_t-290x163.png",Discovery Home And Health Channel
+http://toleflix.tk/clarotv2/get.php?id=790578&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="927659.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/FOODNETWORKHD/EXPORTACION_WEB/SS/FOODNETWORKHD_t-290x163.png",Foodnetwork HD
+http://toleflix.tk/clarotv2/get.php?id=927659&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="728277.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/ELGOURMET/EXPORTACION_WEB/SS/ELGOURMET_t-290x163.png",El Gourmet
+http://toleflix.tk/clarotv2/get.php?id=728277&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="739481.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/MASCHIC/EXPORTACION_WEB/SS/MASCHIC_t-290x163.png",Maschic
+http://toleflix.tk/clarotv2/get.php?id=739481&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="778911.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/INTIHD/EXPORTACION_WEB/SS/INTIHD_t-290x163.png",Inti HD
+http://toleflix.tk/clarotv2/get.php?id=778911&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="927637.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/EENTERTAINMENTHD/EXPORTACION_WEB/SS/EENTERTAINMENTHD_t-290x163.png",E! Entertainment HD
+http://toleflix.tk/clarotv2/get.php?id=927637&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="927559.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/LIFETIMENEW/EXPORTACION_WEB/SS/LIFETIMENEW_t-290x163.png",Lifetime New
+http://toleflix.tk/clarotv2/get.php?id=927559&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="927691.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/TRUTVHD/EXPORTACION_WEB/SS/TRUTVHD_t-290x163.png",Tru Tv HD
+http://toleflix.tk/clarotv2/get.php?id=927691&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="1028758.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn5.clarovideo.net/PELICULAS/AZTECACLIC/EXPORTACION_WEB/SS/AZTECACLIC_t-290x163.png",Azteca Clic
+http://toleflix.tk/clarotv2/get.php?id=1028758&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="778961.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/UNIVISIN/EXPORTACION_WEB/SS/UNIVISIN_t-290x163.png",UnivisiÓn
+http://toleflix.tk/clarotv2/get.php?id=778961&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="758459.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/CANALDELASESTRELLASHD/EXPORTACION_WEB/SS/CANALDELASESTRELLASHD_t-290x163.png",Canal De Las Estrellas HD
+http://toleflix.tk/clarotv2/get.php?id=758459&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="758585.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/VEPLUSTV/EXPORTACION_WEB/SS/VEPLUSTV_t-290x163.png",Ve Plus Tv
+http://toleflix.tk/clarotv2/get.php?id=758585&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="739482.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/MUNDOHD/EXPORTACION_WEB/SS/MUNDOHD_t-290x163.png",Mundo HD
+http://toleflix.tk/clarotv2/get.php?id=739482&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="768768.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/TELEMUNDO/EXPORTACION_WEB/SS/TELEMUNDO_t-290x163.png",Telemundo
+http://toleflix.tk/clarotv2/get.php?id=768768&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="778914.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn1.clarovideo.net/PELICULAS/CORAZNHD/EXPORTACION_WEB/SS/CORAZNHD_t-290x163.png",CorazÓn HD
+http://toleflix.tk/clarotv2/get.php?id=778914&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="739483.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/PASIONES/EXPORTACION_WEB/SS/PASIONES_t-290x163.png",Pasiones
+http://toleflix.tk/clarotv2/get.php?id=739483&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="778890.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/BLOOMBERG/EXPORTACION_WEB/SS/BLOOMBERG_t-290x163.png",Bloomberg
+http://toleflix.tk/clarotv2/get.php?id=778890&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="758440.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/CABLENOTICIASHD/EXPORTACION_WEB/SS/CABLENOTICIASHD_t-290x163.png",Cable Noticias HD
+http://toleflix.tk/clarotv2/get.php?id=758440&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="778962.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/FRANCE24HD/EXPORTACION_WEB/SS/FRANCE24HD_t-290x163.png",France 24 HD
+http://toleflix.tk/clarotv2/get.php?id=778962&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="778849.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/RAI/EXPORTACION_WEB/SS/RAI_t-290x163.png",Rai
+http://toleflix.tk/clarotv2/get.php?id=778849&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="778814.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/BBCWORLD/EXPORTACION_WEB/SS/BBCWORLD_t-290x163.png",Bbc World
+http://toleflix.tk/clarotv2/get.php?id=778814&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="903354.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn7.clarovideo.net/ATRESPLAYER/PELICULAS/ANTENA3INTERNACIONAL/EXPORTACION_WEB/SS/ANTENA3INTERNACIONAL_t-290x163.png",Antena 3 Internacional
+http://toleflix.tk/clarotv2/get.php?id=903354&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="772058.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn1.clarovideo.net/PELICULAS/NHK/EXPORTACION_WEB/SS/NHK_t-290x163.png",Nhk
+http://toleflix.tk/clarotv2/get.php?id=772058&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="1071179.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/IVCNETWORKS/EXPORTACION_WEB/SS/IVCNETWORKS_t-290x163.png",Ivc Networks
+http://toleflix.tk/clarotv2/get.php?id=1071179&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="816913.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CLAROSPORTS/EXPORTACION_WEB/SS/CLAROSPORTS_t-290x163.png",Claro Sports
+http://toleflix.tk/clarotv2/get.php?id=816913&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="888852.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn5.clarovideo.net/PELICULAS/CLAROSPORTS2COLOMBIA/EXPORTACION_WEB/SS/CLAROSPORTS2COLOMBIA_t-290x163.png",Claro Sports 2 Colombia
+http://toleflix.tk/clarotv2/get.php?id=888852&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="778891.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/GOLFCHANNELHD/EXPORTACION_WEB/SS/GOLFCHANNELHD_t-290x163.png",Golf Channel HD
+http://toleflix.tk/clarotv2/get.php?id=778891&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="927643.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/ESPNEXTRA/EXPORTACION_WEB/SS/ESPNEXTRA_t-290x163.png",Espn Extra
+http://toleflix.tk/clarotv2/get.php?id=927643&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="788650.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/ESPNNEW/EXPORTACION_WEB/SS/ESPNNEW_t-290x163.png",Espn New
+http://toleflix.tk/clarotv2/get.php?id=788650&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="788718.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/ESPN2NEW/EXPORTACION_WEB/SS/ESPN2NEW_t-290x163.png",Espn 2 New
+http://toleflix.tk/clarotv2/get.php?id=788718&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="927562.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/ESPN3HD/EXPORTACION_WEB/SS/ESPN3HD_t-290x163.png",Espn 3 HD
+http://toleflix.tk/clarotv2/get.php?id=927562&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="728273.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/ESPN4/EXPORTACION_WEB/SS/ESPN4_t-290x163.png",Espn 4
+http://toleflix.tk/clarotv2/get.php?id=728273&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="927622.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/FOXSPORTS2/EXPORTACION_WEB/SS/FOXSPORTS2_t-290x163.png",Fox Sports 2
+http://toleflix.tk/clarotv2/get.php?id=927622&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="927634.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/FOXSPORTS3/EXPORTACION_WEB/SS/FOXSPORTS3_t-290x163.png",Fox Sports 3
+http://toleflix.tk/clarotv2/get.php?id=927634&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="927651.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/WINSPORTSHD/EXPORTACION_WEB/SS/WINSPORTSHD_t-290x163.png",Win Sports HD
+http://toleflix.tk/clarotv2/get.php?id=927651&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="802714.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn8.clarovideo.net/CVCOLOMBIA/PELICULAS/WINSPORTSPREMIUM/EXPORTACION_WEB/SS/WINSPORTSPREMIUM_t-290x163.png",Win Sports Premium
+http://toleflix.tk/clarotv2/get.php?id=802714&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="927626.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/WARNERCHANNELHD/EXPORTACION_WEB/SS/WARNERCHANNELHD_t-290x163.png",Warner Channel HD
+http://toleflix.tk/clarotv2/get.php?id=927626&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="927652.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/AXNHD/EXPORTACION_WEB/SS/AXNHD_t-290x163.png",Axn HD
+http://toleflix.tk/clarotv2/get.php?id=927652&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="927636.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/SONYHD/EXPORTACION_WEB/SS/SONYHD_t-290x163.png",Sony HD
+http://toleflix.tk/clarotv2/get.php?id=927636&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="927658.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/DISCOVERYIDHD/EXPORTACION_WEB/SS/DISCOVERYIDHD_t-290x163.png",Discovery Id HD
+http://toleflix.tk/clarotv2/get.php?id=927658&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="927639.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/UNIVERSAL/EXPORTACION_WEB/SS/UNIVERSAL_t-290x163.png",Universal
+http://toleflix.tk/clarotv2/get.php?id=927639&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="771875.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/SYFYCOLOMBIA/EXPORTACION_WEB/SS/SYFYCOLOMBIA_t-290x163.png",Syfy Colombia
+http://toleflix.tk/clarotv2/get.php?id=771875&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="773893.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/FX/EXPORTACION_WEB/SS/FX_t-290x163.png",Fx
+http://toleflix.tk/clarotv2/get.php?id=773893&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="927550.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/AEHD/EXPORTACION_WEB/SS/AEHD_t-290x163.png",Ae HD
+http://toleflix.tk/clarotv2/get.php?id=927550&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="773938.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/TNTSERIES/EXPORTACION_WEB/SS/TNTSERIES_t-290x163.png",Tnt Series
+http://toleflix.tk/clarotv2/get.php?id=773938&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="927693.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/TBS/EXPORTACION_WEB/SS/TBS_t-290x163.png",Tbs
+http://toleflix.tk/clarotv2/get.php?id=927693&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="739487.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/COMEDYCENTRAL/EXPORTACION_WEB/SS/COMEDYCENTRAL_t-290x163.png",Comedy Central
+http://toleflix.tk/clarotv2/get.php?id=739487&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="778894.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/FILMANDARTSHD/EXPORTACION_WEB/SS/FILMANDARTSHD_t-290x163.png",Film And Arts HD
+http://toleflix.tk/clarotv2/get.php?id=778894&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="773875.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/TNT/EXPORTACION_WEB/SS/TNT_t-290x163.png",Tnt
+http://toleflix.tk/clarotv2/get.php?id=773875&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="927671.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/CINEMAXHD/EXPORTACION_WEB/SS/CINEMAXHD_t-290x163.png",Cinemax HD
+http://toleflix.tk/clarotv2/get.php?id=927671&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="927654.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/STUDIOUNIVERSAL/EXPORTACION_WEB/SS/STUDIOUNIVERSAL_t-290x163.png",Studio Universal
+http://toleflix.tk/clarotv2/get.php?id=927654&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="773894.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/SPACE/EXPORTACION_WEB/SS/SPACE_t-290x163.png",Space
+http://toleflix.tk/clarotv2/get.php?id=773894&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="728275.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/AMC/EXPORTACION_WEB/SS/AMC_t-290x163.png",Amc
+http://toleflix.tk/clarotv2/get.php?id=728275&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="758534.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/GOLDENHD/EXPORTACION_WEB/SS/GOLDENHD_t-290x163.png",Golden HD
+http://toleflix.tk/clarotv2/get.php?id=758534&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="1068913.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/GOLDENEDGE/EXPORTACION_WEB/SS/GOLDENEDGE_t-290x163.png",Golden Edge
+http://toleflix.tk/clarotv2/get.php?id=1068913&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="778899.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/EUROCHANNEL/EXPORTACION_WEB/SS/EUROCHANNEL_t-290x163.png",Eurochannel
+http://toleflix.tk/clarotv2/get.php?id=778899&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="778900.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/DEPELCULA/EXPORTACION_WEB/SS/DEPELCULA_t-290x163.png",De PelÍcula
+http://toleflix.tk/clarotv2/get.php?id=778900&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="773940.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/CINECANAL/EXPORTACION_WEB/SS/CINECANAL_t-290x163.png",Cinecanal
+http://toleflix.tk/clarotv2/get.php?id=773940&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="778928.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/DHEHD/EXPORTACION_WEB/SS/DHEHD_t-290x163.png",Dhe HD
+http://toleflix.tk/clarotv2/get.php?id=778928&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="739488.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/PARAMOUNTNETWORK/EXPORTACION_WEB/SS/PARAMOUNTNETWORK_t-290x163.png",Paramount Network
+http://toleflix.tk/clarotv2/get.php?id=739488&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="820390.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn1.clarovideo.net/HBO/PELICULAS/HBOPOP/EXPORTACION_WEB/SS/HBOPOP_t-290x163.png",Hbo Pop
+http://toleflix.tk/clarotv2/get.php?id=820390&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="820471.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn7.clarovideo.net/HBO/PELICULAS/HBOXTREME/EXPORTACION_WEB/SS/HBOXTREME_t-290x163.png",Hbo Xtreme
+http://toleflix.tk/clarotv2/get.php?id=820471&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="750911.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn9.clarovideo.net/HBO/PELICULAS/HBOHD/EXPORTACION_WEB/SS/HBOHD_t-290x163.png",Hbo HD
+http://toleflix.tk/clarotv2/get.php?id=750911&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="793558.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn7.clarovideo.net/HBO/PELICULAS/HBO2/EXPORTACION_WEB/SS/HBO2_t-290x163.png",Hbo 2
+http://toleflix.tk/clarotv2/get.php?id=793558&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="792130.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn7.clarovideo.net/HBO/PELICULAS/HBOPLUSHD/EXPORTACION_WEB/SS/HBOPLUSHD_t-290x163.png",Hbo Plus HD
+http://toleflix.tk/clarotv2/get.php?id=792130&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="792165.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn1.clarovideo.net/HBO/PELICULAS/HBOFAMILYCHANNEL/EXPORTACION_WEB/SS/HBOFAMILYCHANNEL_t-290x163.png",Hbo Family Channel
+http://toleflix.tk/clarotv2/get.php?id=792165&.m3u8|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="793464.colombia" group-title="CLARO TV" tvg-logo="https://clarovideocdn3.clarovideo.net/HBO/PELICULAS/HBOSIGNATUREHDNEW/EXPORTACION_WEB/SS/HBOSIGNATUREHDNEW_t-290x163.png",Hbo Signature HD New
+http://toleflix.tk/clarotv2/get.php?id=793464&.m3u8|user-agent=Mozilla
