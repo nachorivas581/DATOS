@@ -35,8 +35,6 @@ https://delivery.cdn.rcs.net.ar/mnp/disc_hh/output.mpd
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_DASH/Discovery_ID.mpd
 #EXTINF:-1 ,Discovery SCI
 https://delivery.cdn.rcs.net.ar/mnp/dsc_sci/output.mpd
-#EXTINF:-1 ,Discovery Theather
-https://vivo.lamtv.tv:8081/a/0044/playlist.m3u8
 #EXTINF:-1 ,Discovery Turbo
 https://delivery.cdn.rcs.net.ar/mnp/dsc_turbo/output.mpd
 #EXTINF:-1 ,Discovery World
@@ -65,9 +63,9 @@ https://delivery.cdn.rcs.net.ar/mnp/hboxtr/output.mpd
 https://delivery.cdn.rcs.net.ar/mnp/hbofam/output.mpd
 #EXTINF:-1 ,HBO Mundi
 https://delivery.cdn.rcs.net.ar/mnp/hbomund/output.mpd
-#EXTINF:-1 ,Cinemax
-https://delivery.cdn.rcs.net.ar/mnp/hbopop/output.mpd
 #EXTINF:-1 ,HBO Pop
+https://delivery.cdn.rcs.net.ar/mnp/hbopop/output.mpd
+#EXTINF:-1 ,HBO Signature
 https://delivery.cdn.rcs.net.ar/mnp/hbosig/output.mpd
 #EXTINF:-1 ,TNT
 https://delivery.cdn.rcs.net.ar/mnp/tnt/output.mpd
@@ -82,7 +80,7 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_DASH/Ca
 #EXTINF:-1 ,Cartoonito
 https://delivery.cdn.rcs.net.ar/mnp/boomerang/output.mpd
 #EXTINF:-1 ,Discovery Kids
-https://delivery.cdn.rcs.net.ar/mnp/disc_kids/output.mpdd
+https://delivery.cdn.rcs.net.ar/mnp/disc_kids/output.mpd
 #EXTINF:-1 ,Disney Channel
 https://delivery.cdn.rcs.net.ar/mnp/disney/output.mpd
 #EXTINF:-1 ,Disney JR
