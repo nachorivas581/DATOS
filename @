@@ -9,6 +9,8 @@ https://delivery.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
 https://delivery.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
 #EXTINF:-1 ,Fox Sports 3
 https://delivery.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
+#EXTINF:-1,Claro Sports
+https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
 #EXTINF:-1 ,TYC SPORT
 https://delivery.cdn.rcs.net.ar/mnp/tyc/output.mpd
 #EXTINF:-1 ,Espn
