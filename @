@@ -41,8 +41,6 @@ https://delivery.cdn.rcs.net.ar/mnp/dsc_turbo/output.mpd
 https://delivery.cdn.rcs.net.ar/mnp/disc_world/output.mpd
 #EXTINF:-1,History
 https://delivery.cdn.rcs.net.ar/mnp/history/output.mpd
-#EXTINF:-1,H2
-https://delivery.cdn.rcs.net.ar/mnp/h2/output.mpd
 #EXTINF:-1 ,Space
 https://delivery.cdn.rcs.net.ar/mnp/space/output.mpd
 #EXTINF:-1 ,Syfy
