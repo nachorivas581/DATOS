@@ -9,8 +9,6 @@ https://delivery.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
 https://delivery.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
 #EXTINF:-1 ,Fox Sports 3
 https://delivery.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
-#EXTINF:-1,Claro Sports
-https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
 #EXTINF:-1 ,TYC SPORT
 https://delivery.cdn.rcs.net.ar/mnp/tyc/output.mpd
 #EXTINF:-1 ,Espn
@@ -43,6 +41,8 @@ https://delivery.cdn.rcs.net.ar/mnp/dsc_turbo/output.mpd
 https://delivery.cdn.rcs.net.ar/mnp/disc_world/output.mpd
 #EXTINF:-1,History
 https://delivery.cdn.rcs.net.ar/mnp/history/output.mpd
+#EXTINF :-1,Paramount
+http://delivery.cdn.rcs.net.ar/mnp/paramount/output.mpd
 #EXTINF:-1 ,Space
 https://delivery.cdn.rcs.net.ar/mnp/space/output.mpd
 #EXTINF:-1 ,Syfy
