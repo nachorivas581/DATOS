@@ -43,6 +43,8 @@ https://delivery.cdn.rcs.net.ar/mnp/disc_world/output.mpd
 https://delivery.cdn.rcs.net.ar/mnp/history/output.mpd
 #EXTINF :-1,Paramount
 http://delivery.cdn.rcs.net.ar/mnp/paramount/output.mpd
+#EXTINF:-1,Claro cinema
+http://170.83.242.30:5350/play/a00d
 #EXTINF:-1 ,Space
 https://delivery.cdn.rcs.net.ar/mnp/space/output.mpd
 #EXTINF:-1 ,Syfy
@@ -77,6 +79,8 @@ https://delivery.cdn.rcs.net.ar/mnp/tnt/output.mpd
 https://delivery.cdn.rcs.net.ar/mnp/tntseries/output.mpd
 #EXTINF:-1 ,Universal Channel
 https://delivery.cdn.rcs.net.ar/mnp/universal/output.mpd
+#EXTINF:-1,Universal Cinema
+http://170.83.242.30:5350/play/a0kp
 #EXTINF:-1 ,Warner
 https://delivery.cdn.rcs.net.ar/mnp/warner/output.mpd
 #EXTINF:-1 ,Cartoon Network
