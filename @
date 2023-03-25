@@ -107,4 +107,6 @@ https://delivery.cdn.rcs.net.ar/mnp/elnueve/output.mpd
 https://delivery.cdn.rcs.net.ar/mnp/el13/output.mpd
 #EXTINF:-1 ,Telefe
 https://delivery.cdn.rcs.net.ar/mnp/telefe/output.mpd
+#EXTINF:-1 ,Televisa
+http://linear-317.frequency.stream/317/hls/master/playlist.m3u8
 
