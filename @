@@ -81,8 +81,6 @@ https://delivery.cdn.rcs.net.ar/mnp/tnt/output.mpd
 https://delivery.cdn.rcs.net.ar/mnp/tntseries/output.mpd
 #EXTINF:-1 ,Universal Channel
 https://delivery.cdn.rcs.net.ar/mnp/universal/output.mpd
-#EXTINF:-1,Universal Cinema
-http://170.83.242.30:5350/play/a0kp
 #EXTINF:-1 ,Warner
 https://delivery.cdn.rcs.net.ar/mnp/warner/output.mpd
 #EXTINF:-1 ,Cartoon Network
