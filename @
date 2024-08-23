@@ -12,7 +12,7 @@ https://delivery.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
 #EXTINF:-1 ,TYC SPORT
 https://delivery.cdn.rcs.net.ar/mnp/tyc/output.mpd
 #EXTINF:-1 ,Espn
-https://delivery.cdn.rcs.net.ar/mnp/espn/output.mpd
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_DASH/ESPN.mpd
 #EXTINF:-1 ,Espn2
 https://delivery.cdn.rcs.net.ar/mnp/espn2/output.mpd
 #EXTINF:-1 ,Espn3
